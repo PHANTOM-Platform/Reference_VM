@@ -73,9 +73,16 @@ Here we can spot a bunch of additional files which can be found at the correspon
 
 Run the start script – This  step consists in the execution of script that will: upload all the needed files to the specified repositories; register the application on the Application manager; and configure and launch each tool. To start this script run: 
 
+```bash
+	cd ~/phantom-tools/User-tools/management-scripts
+	bash start-servers.sh
 ```
-          demo@ubuntu:~/phantom-tools/User-tools$./start-PHANTOM.py -cp
+To start the servers, and run:
+```bash
+	cd ..
+	./start-PHANTOM.py -cp
 ```
+To start the scripts to upload the demo application and start PHANTOM components.
 
 ## What is not included
 In this virtual machine is not included the PHANTOM components related with FPGAs:
