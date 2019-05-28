@@ -41,7 +41,7 @@ The features that are only supported by the full version are the following:
 *	Multiple MOM iterations to provide improved performance deployment plans.
 *	Multiple MOM mutations to support extended design space exploration from the generated deployment plans.
 
-**Get in touch with us you want to get access to the full version of these tools.**
+**Get in touch with us you want to get access to the full version of these tools:** <info@wings-ict-solutions.eu>
 
 ### Demo application
 Besides to these tools, it is also included in this Virtual Machine an demo application - `Tutorial`
